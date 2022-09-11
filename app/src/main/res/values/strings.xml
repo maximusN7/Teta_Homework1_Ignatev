@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Teta_Homework1_Ignatev</string>
+    <string name="error_message">There is a problem occurred during loading</string>
+    <string name="error_button">Retry again</string>
+    <string name="author">Author: </string>
 </resources>

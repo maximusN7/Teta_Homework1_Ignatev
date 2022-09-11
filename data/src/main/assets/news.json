@@ -1,0 +1,52 @@
+{
+  "listID": [
+    {
+      "id": 1,
+      "title": "Today is monday",
+      "text": "bla bla bla bla bla bla bla",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Today is tuesday",
+      "text": "bla bla bla bla bla bla bla",
+      "author": "John Doe"
+    },
+    {
+      "id": 3,
+      "title": "Today is wednesday",
+      "text": "bla bla bla bla bla bla bla my dudes",
+      "author": "John Doe"
+    },
+    {
+      "id": 4,
+      "title": "Today is thursday",
+      "text": "bla bla bla bla bla bla bla",
+      "author": "John Doe"
+    },
+    {
+      "id": 5,
+      "title": "Today is friday",
+      "text": "bla bla bla bla bla bla bla hurray",
+      "author": "John Doe"
+    },
+    {
+      "id": 6,
+      "title": "Today is saturday",
+      "text": "bla bla bla bla bla bla bla",
+      "author": "John Doe"
+    },
+    {
+      "id": 7,
+      "title": "Today is sunday",
+      "text": "bla bla bla bla bla bla bla",
+      "author": "John Doe"
+    },
+    {
+      "id": 8,
+      "title": "Today is qwerty",
+      "text": "bla bla bla bla bla bla bla",
+      "author": "John Doe"
+    }
+  ]
+}
